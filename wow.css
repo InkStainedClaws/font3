@@ -1,0 +1,33 @@
+#hehe
+{
+    box-shadow:5px 5px 5px grey;
+    padding: 10px;
+}
+
+#haha
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 2px;
+    border-color: blue;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+}
+
+
+
+
+
